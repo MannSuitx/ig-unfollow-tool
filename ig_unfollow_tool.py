@@ -176,8 +176,8 @@ class HomePage:
         sleep(5)
 
 # Credentials to access Instagram account
-username = ""
-password = ""
+username = "itz_genz_069"
+password = "ManOP@2038"
 
 my_insta_bot = InstaBot(username, password)
 my_insta_bot.unfollow()
